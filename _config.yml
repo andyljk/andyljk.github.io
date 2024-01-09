@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiakun Li"
 title_separator          : "-"
-name                     : &name "Jiakun Li"
+name                     : &name "Jiakun's Homepage"
 description              : &description "First year Biostatistics Ph.D. student at UMN"
 url                      : https://andyljk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
