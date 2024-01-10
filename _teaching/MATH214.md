@@ -10,4 +10,4 @@ location: "Williamsburg, VA"
 
 • Instructor: Dr. Junping Shi \
 • Fundamentals of advanced mathematics: Propositional logic, quantifiers and methods of proof; naive set theory including mathematical induction, relations, orders, functions, and cardinalities of sets. \
-• Hold office hours, grade homework assignments; assist with classroom activities. \
+• Hold office hours, grade homework assignments; assist with classroom activities.
