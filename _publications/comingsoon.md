@@ -2,9 +2,9 @@
 title: "Coming Soon!"
 collection: publications
 permalink: /publication/comingsoon
-excerpt: ''
+excerpt: ' '
 date: 
-venue: ''
-paperurl: ''
-citation: ''
+venue: ' '
+paperurl: ' '
+citation: ' '
 ---
