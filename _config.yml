@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiakun's Homepage"
 title_separator          : "-"
 name                     : &name "Jiakun Li"
-description              : &description "First year Biostatistics Ph.D. student at UMN"
+description              : &description "Second year Biostatistics Ph.D. student at UMN"
 url                      : https://andyljk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andyljk/andyljk.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiakun Li"
   avatar           : "JiakunLi.png"
-  bio              : "First Year Biostats Ph.D. student at UMN"
+  bio              : "Second Year Biostats Ph.D. student at UMN"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
