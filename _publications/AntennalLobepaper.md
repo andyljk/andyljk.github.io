@@ -5,5 +5,4 @@ permalink: /publications/AntennalLobepaper
 date: 2024-01-09
 venue: 'Working Preprint'
 paperurl: '/files/Antennal_lobe.pdf'
-citation: 'NA'
 ---
