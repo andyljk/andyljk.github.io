@@ -7,7 +7,8 @@ author_profile: true
 
 ## Published
 
-* **N. Georgiou-Karistianis, L.A. Corben, E.F. Lock, H. Bujalka, ... J. Li, ..., et al.** (2025). Neuroimaging Biomarkers for Friedreich Ataxia: A Cross-Sectional Analysis of TRACK-FA. *Annals of Neurology*. doi: 10.1002/ana.27237
+* **N. Georgiou-Karistianis, L.A. Corben, E.F. Lock, H. Bujalka, ... J. Li, ..., et al.** (2025). Neuroimaging Biomarkers for Friedreich Ataxia: A Cross-Sectional Analysis of TRACK-FA. *Annals of Neurology*.
+[DOI: 10.1002/ana.27237](https://doi.org/10.1002/ana.27237)
 
 ## Submitted
 
