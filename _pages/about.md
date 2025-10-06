@@ -17,3 +17,11 @@ I am Jiakun Li, a third year Ph.D. student in the Biostatistics program at the U
 I am also a member of TRACK-FA: a global consortium identifying sensitive, clinical trial-ready biomarkers for Friedreich's Ataxia using bioimaging data of the brain and spinal cord. You can learn more about this project [here](https://www.curefa.org/clinical-trials-active-enrolling/track-fa-study-bioimaging-of-brain-and-spinal-cord).
 
 I completed my undergraduate studies at William & Mary, where I worked on projects involving population dynamics of the Chesapeake Blue Crab with Dr. Junping Shi and computational neuroscience analysis of honey bee antennal lobe responses with Dr. Mainak Patel and Dr. Ross Iaci.
+
+---
+
+## Contact
+
+**Email:** li003453@umn.edu
+**GitHub:** [andyljk](https://github.com/andyljk)  
+**LinkedIn:** [Jiakun Li](https://www.linkedin.com/in/jiakun-li-2379a0230/)
