@@ -2,12 +2,20 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    
+  - title: "Research"
+    url: /research/
+    
+  - title: "Presentations"
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+  - title: "CV"
+    url: /files/Resume.pdf
+
+  
     
   #- title: "Portfolio"
     #url: /portfolio/
@@ -15,7 +23,7 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "Resume"
+  #- title: "Resume"
     url: /files/Resume.pdf
     
   #- title: "Guide"
