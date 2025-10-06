@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am Jiakun Li, a third year Ph.D. student in the Biostatistics program at the University of Minnesota Twin Cities (expected graduation: May 2027). My research interests is at the intersection of machine learning, statistics and optimization. Specifically, I work on the following areas:
-1. Dimension reduction and imputation methods for longitudinal multiview data, and their applications in omics data and neurodegenerative diseases.
+1. Dimension reduction and imputation methods for longitudinal data, and their applications in omics data and neurodegenerative diseases.
 2. Bayesian transfer learning and their generalization capabilities.
 3. Computationally efficient algorithms for Bayesian high dimensional models.
 
