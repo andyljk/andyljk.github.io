@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+## Teaching Assistant Experience
+
+**PUBH 6414 - Biostatistics Literature**  
+University of Minnesota, Division of Biostatistics & Health Data Science  
+Minneapolis, MN | Fall 2023
+
+*Instructor: Dr. Laura Le*
+
+- PubH 6414 develops student ability to read and interpret statistical results in the primary literature of their specific scientific field of interest
+- Grade homework assignments and quizzes; assist with classroom activities
+
+---
+
+**MATH 214 - Foundations of Mathematics**  
+William & Mary, Department of Mathematics  
+Williamsburg, VA | Fall 2022
+
+*Instructor: Dr. Junping Shi*
+
+- Fundamentals of advanced mathematics: Propositional logic, quantifiers and methods of proof; naive set theory including mathematical induction, relations, orders, functions, and cardinalities of sets
+- Hold office hours, grade homework assignments; assist with classroom activities
