@@ -23,5 +23,7 @@ I completed my undergraduate studies at William & Mary, where I worked on projec
 ## Contact
 
 **Email:** li003453@umn.edu
+
 **GitHub:** [andyljk](https://github.com/andyljk)  
+
 **LinkedIn:** [Jiakun Li](https://www.linkedin.com/in/jiakun-li-2379a0230/)
