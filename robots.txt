@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /files/SSTL_preprint.pdf
+Disallow: /files/EVBLM_preprint.pdf
+
+Sitemap: https://andyljk.github.io/sitemap.xml
