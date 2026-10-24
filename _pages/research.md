@@ -12,10 +12,10 @@ author_profile: true
 
 ## Submitted
 
+* **J. Li, E.F. Lock.** Empirical Variational Bayes Factorization for Longitudinal Matrix Data. *Computational Statistics & Data Analysis* (Major revision).
+[[Preprint]](/files/preprints/EVBLM_preprint.pdf)
+
+* **J. Li, S. Ventz.** Spike-and-Slab Transfer Learning via Augmented Variables for Time-to-Event Analysis. *(Under review)*
+[[Preprint]](/files/preprints/SSTL_preprint.pdf)
+
 * **J. Li, R. Iaci, M. Patel.** A Novel Classification Method of Neural Response to Mechanosensory Stimuli in the Honey Bee Antennal Lobe. *(Submitted)*
-
-## In Progress
-
-* **J. Li, E. Lock.** An Empirical Bayes Factor Model for High Dimensional Data Over Time. *(In progress)*
-
-* **J. Li, S. Ventz.** Neuronized Bayesian Transfer Learning for Sparse Regression Models. *(In progress)*
